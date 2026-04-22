@@ -15,7 +15,7 @@ import java.util.concurrent.Callable;
  * from OpenAPI specifications, and manage the full lifecycle of a generated Spring Boot
  * application (build, run, test, clean).</p>
  *
- * <h3>Distribution</h3>
+ * <h2>Distribution</h2>
  * <ul>
  *   <li>Fat JAR: {@code java -jar apigen-springboot-cli.jar <command>}</li>
  *   <li>Native executable (GraalVM): {@code ./apigen-springboot-cli <command>}</li>
